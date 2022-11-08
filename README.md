@@ -1,1 +1,5 @@
-#PRACTICANDO GIT Y GITHUB
+# PRACTICANDO GIT Y GITHUB
+
+## Dupla
+- Ezequiel Muñoz
+-  Edgardo de la Cruz
